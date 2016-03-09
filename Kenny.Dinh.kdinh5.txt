@@ -1,0 +1,4 @@
+Based of the project I was able to interpret the code and easy to understand. Written report
+also states the goal of the project which is great as well. Dataset was well organized in R 
+As well and named making it easily visualized and understood. Also with each line code there 
+was a description provided. Graph is also generated but doesnt show a result. 
