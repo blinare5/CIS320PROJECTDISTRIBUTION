@@ -1,3 +1,3 @@
 Project is very visual and thorough. The graphs generated were very well. Everything that was listed
 had a graph for it that was easily read and interpreted. The ggplot graph that displayed the US
-and had a scale for murder was what I liked the most. 
+and had a scale for murder was what I liked the most. Very well done!
