@@ -3,7 +3,9 @@ CIS320 PROJECT
 
 Code;
 mUSArrests<-read.table("https://vincentarelbundock.github.io/Rdatasets/csv/datasets/USArrests.csv",sep = ",", header = T)
+
 class(USArrests)
+
 summary(USArrests)
 summary(USArrests$Murder)
 summary(USArrests$Assault)
